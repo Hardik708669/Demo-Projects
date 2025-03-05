@@ -44,23 +44,8 @@ python complex_calculator.py
 python todo_list.py
 ```
 
----
+---  
 
-## ⚙️ Requirements
-- **Python 3.x**
-
-## 🚀 Installation
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
-   ```
-2. **Navigate to the project folder:**
-   ```bash
-   cd your-repo
-   ```
-3. **Run the desired Python script.**
-
----
 
 ## 🤝 Contributing
 Want to contribute? **Fork this repository** and submit a pull request with your improvements!
@@ -69,5 +54,5 @@ Want to contribute? **Fork this repository** and submit a pull request with your
 This project is **open-source** and available under the **MIT License**.
 
 ## 👨‍💻 Author
-Your Name
+**Hardik Mihani**
 
