@@ -16,7 +16,7 @@ This repository contains three Python-based projects designed for efficiency and
 
 ### ▶️ Usage:
 ```bash
-python simple_calculator.py
+python simple_calculator.ipynb
 ```
 
 ---
@@ -28,7 +28,7 @@ python simple_calculator.py
 
 ### ▶️ Usage:
 ```bash
-python complex_calculator.py
+python complex_calculator.ipynb
 ```
 
 ---
@@ -41,7 +41,7 @@ python complex_calculator.py
 
 ### ▶️ Usage:
 ```bash
-python todo_list.py
+python todo_list.ipynb
 ```
 
 ---  
